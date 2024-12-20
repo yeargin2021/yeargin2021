@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... tommyyearginjr.com, then Contact
 - 😄 Pronouns: ... he/him
 <!-- ⚡ Fun fact: ... -->
-- 🎮 ⚾️ 🏎️  XBOX: THE SHOW 24, F1 Manager 2024, Forza Motorsport, Asseto Corsa
+- 🎮 ⚾️ 🏎️  XBOX: THE SHOW 24, F1 Manager 2024, Forza Motorsport, Assetto Corsa
 
