@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ... CSS
+<!-- 🌱 I’m currently learning ... CSS-->
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 - 📫 How to reach me: ... <a target="_blank" href="https://www.tommyyearginjr.com/">tommyyearginjr.com</a>, then Contact
 - 😄 Pronouns: ... he/him
 <!-- ⚡ Fun fact: ... -->
-- 🎮 ⚾️ 🏎️  XBOX: THE SHOW 24, F1 Manager 2024, Forza Motorsport, Assetto Corsa
+- Balatro; 🎮 ⚾️ 🏎️  XBOX: THE SHOW 24, F1 Manager 2024, Forza Motorsport, Assetto Corsa
 
