@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi.
 
 <!--
 **yeargin2021/yeargin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... <a target="_blank" href="https://www.tommyyearginjr.com/">tommyyearginjr.com</a>, then Contact
 - 😄 Pronouns: ... he/him
 <!-- ⚡ Fun fact: ... -->
-- Balatro; 🎮 ⚾️ 🏎️  XBOX: THE SHOW 24, F1 Manager 2024, Forza Motorsport, Assetto Corsa
+- GAMES: Balatro, PGA 2K25, MLB 25 The Show.
 
